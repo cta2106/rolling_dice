@@ -15,7 +15,7 @@ Second player advantage is
 [Link to Tweet](https://twitter.com/joe_shipman/status/1341194220263104512?s=20)  
 
 ## Running Monte-Carlo Simulation
-Update the desired number of iterations in your simulation in `config.yml` and run the following command in your terminal.
+Update the desired number of iterations in your simulation by modifying `n_iter` in `config.yml` and run the following command in your terminal.
 
 ```python
 python main.py
